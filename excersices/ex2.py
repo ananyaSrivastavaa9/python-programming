@@ -1,4 +1,4 @@
-# Index same hona chahiye
+# Index should be same
 # questions[0] → answers[0] → prize[0]
 
 questions = [

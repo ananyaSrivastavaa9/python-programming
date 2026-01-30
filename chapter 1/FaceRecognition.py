@@ -1,6 +1,6 @@
 import cv2
 
-# Face detect karne ka model
+# Face detection model
 face_cascade = cv2.CascadeClassifier(
     cv2.data.haarcascades + "haarcascade_frontalface_default.xml"
 )
