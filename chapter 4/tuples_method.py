@@ -1,0 +1,15 @@
+# count()
+a = (1,2,2,3)
+count = a.count(2)
+print("count of 2 in tuple is : ", count)
+
+# index()
+b = (1,2,3,4,5,3,6)
+ind = b.index(4)
+inde = b.index(3,1,6)
+print("index of 4 in tuple is : ", ind)
+print("index of 3 in tuple is : ", inde)
+
+# length()
+c = (1,2,3,4,5,6,7,8,9)
+print("the length of the tuple is :", len(c))

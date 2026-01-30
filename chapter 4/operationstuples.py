@@ -1,0 +1,6 @@
+a = (1,2,3,4)
+b = list(a)
+b.append(5)
+b.sort()
+b.insert(6,7)
+print(b)
