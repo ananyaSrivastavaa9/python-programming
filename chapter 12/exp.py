@@ -1,4 +1,4 @@
-# exception handling\
+# exception handling
 
 # a = input("enter a number: ")
 # print(f"multiplication table of {a} is: ")
