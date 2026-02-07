@@ -27,9 +27,9 @@ for i in range(len(questions)):
 
     if user_ans == answers[i]:
         money = prize[i]
-        print("✅ Correct answer!")
+        print("Correct answer!")
         print("You have won ₹", money)
     else:
-        print("❌ Wrong answer!")
+        print("Wrong answer!")
         print("You take home ₹", money)
         break
