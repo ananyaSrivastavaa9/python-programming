@@ -11,10 +11,10 @@ questions = [
     "Which language is used to write Python programs?"
 ]
 answers = [
-    "New Delhi",
-    "Mahatma Gandhi",
-    "Mars",
-    "Tiger",
+    "new Delhi",
+    "mahatma Gandhi",
+    "mars",
+    "tiger",
     "366",
     "Carbon Dioxide",
     "Charles Babbage",
