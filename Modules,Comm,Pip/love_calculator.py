@@ -9,7 +9,7 @@ def speak(text):
     engine.say(text)
     engine.runAndWait()
 
-print("💖 LOVE CALCULATOR 💖")
+print("LOVE CALCULATOR 💖")
 
 name1 = input("Enter first name: ")
 name2 = input("Enter second name: ")
