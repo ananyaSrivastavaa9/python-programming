@@ -28,3 +28,12 @@ print("False and True is", False and True)
 print("False and False is", False and False)
 
 print(not(True))
+
+# bitwise op
+a = 5   # 0101 in binary
+b = 3   # 0011 in binary
+print(a & b)  # 1  (0101 & 0011 = 0001)
+print(a | b)  # 7  (0101 | 0011 = 0111)
+print(a ^ b)  # 6  (0101 ^ 0011 = 0110)
+print(a << 1) # 10 (0101 << 1 = 1010)
+print(a >> 1) # 2  (0101 >> 1 = 0010)
