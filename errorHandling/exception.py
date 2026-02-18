@@ -11,4 +11,4 @@ except:
 # try:
 #     num = int(input("enter a num: "))
 # except:
-#     print("no entered is not interger")
+#     print("no. entered is not interger")
