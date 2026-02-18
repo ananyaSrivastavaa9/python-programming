@@ -37,3 +37,17 @@ print(a | b)  # 7  (0101 | 0011 = 0111)
 print(a ^ b)  # 6  (0101 ^ 0011 = 0110)
 print(a << 1) # 10 (0101 << 1 = 1010)
 print(a >> 1) # 2  (0101 >> 1 = 0010)
+
+# identity operators
+# Identity operators are used to check whether two objects are the same in memory.
+a = [1,2,3,4]
+b = a
+c = [1,2,3,4]
+print(a is b)
+print(a is not c)
+
+# membership operators
+# Membership operators are used to check whether a value exists in a sequence
+a = [1,2,3,4,5]
+if 5 in a:
+    print("yes")
