@@ -16,7 +16,6 @@ If the word has 3 or more letters:
 Remove the first 3 and last 3 characters (these were random letters)
 Take the last letter and move it to the beginning'''
 
-
 import random
 import string
 
