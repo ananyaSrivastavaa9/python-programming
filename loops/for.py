@@ -4,7 +4,6 @@ while(i<7):
     i = i+1
 else:
     print("sorry no i")
-
 for x in range(5):
     print("iteration no {} in for loop".format(x+1))
 else:
