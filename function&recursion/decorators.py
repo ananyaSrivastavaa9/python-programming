@@ -1,3 +1,3 @@
 def div(a,b):
     print(a/b)
-div(4,5)
+div(2,4)
