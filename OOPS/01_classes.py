@@ -1,10 +1,10 @@
 ## classes
-# class Student:
-#     name = "Ananya"
+class Student:
+    name = "Ananya"
 
 ## objects(instance)
-# s1 = Student()
-# print(s1.name)
+s1 = Student()
+print(s1.name)
 
 # Car Classes and objects
 class Car:
